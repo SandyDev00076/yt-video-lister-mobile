@@ -11,6 +11,11 @@
 # production
 /build
 
+#cordova
+/platforms
+/plugins
+/res
+
 # misc
 .DS_Store
 .env.local
