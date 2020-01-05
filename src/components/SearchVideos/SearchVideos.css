@@ -1,0 +1,11 @@
+.searchfield {
+    display: block;
+    width: 100%;
+    position: relative;
+    border: none;
+    border-bottom: 1px solid rgb(230, 230, 230);
+}
+
+.searchfield:focus {
+    border-bottom-color: grey;
+}
